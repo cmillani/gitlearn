@@ -1,3 +1,3 @@
 # gitlearn
 Simple git repository for teaching purposes
-Carlos Eduardo
+Carlos Eduardo Millani
