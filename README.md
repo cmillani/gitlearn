@@ -1,2 +1,2 @@
 # gitlearn
-Simple git repository for teaching purposes
+ola mundo! Sou o Sergio
